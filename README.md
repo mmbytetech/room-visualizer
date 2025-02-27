@@ -13,7 +13,7 @@ The purpose of the app is to offer a simple, real-time visualization of differen
 
 ## Project clone
 ```
-git clone https://github.com/
+git clone https://github.com/mmbytetech/room-visualizer.git
 ```
 
 ## Project setup
